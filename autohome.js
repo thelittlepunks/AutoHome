@@ -1,5 +1,5 @@
-var plotly = require('plotly')('littlepunk','0RkRMaBIm7v4w9oYBW4I'),
-    token = 'omi20horgs';
+var plotly = require('plotly')('username','API Key'),
+    token = 'Stream Key';
 
 // helper function to get a nicely formatted date string
 function getDateString() {
