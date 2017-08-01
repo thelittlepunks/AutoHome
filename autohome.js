@@ -1,3 +1,4 @@
+// Enter correct details below
 var plotly = require('plotly')('username','API Key'),
     token = 'Stream Key';
 
