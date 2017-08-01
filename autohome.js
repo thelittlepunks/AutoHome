@@ -22,6 +22,7 @@ plotly.plot(initdata, initlayout, function (err, msg) {
         console.log(err, res);
     });
 
+    // Add data collection here
     // sp.on('data', function(input) {
     //     if(isNaN(input) || input > 1023) return;
     //
